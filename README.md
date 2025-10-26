@@ -103,9 +103,6 @@ Please open issues for bugs or feature requests before making large changes, so 
 - Add a simple GUI (Swing/JavaFX) or a web front-end for a nicer user experience.
 - Add GitHub Actions to run tests and static analysis on each PR.
 
-## License
-
-Add a LICENSE file to the repo (for example, MIT). If you want, I can add a standard MIT license file for you.
 
 ## Contact
 
