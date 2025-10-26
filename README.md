@@ -14,7 +14,6 @@ A small, console-based calculator implemented in Java. This project is a hands-o
 - [Error Handling](#error-handling)
 - [Contributing](#contributing)
 - [Suggested Improvements](#suggested-improvements)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
