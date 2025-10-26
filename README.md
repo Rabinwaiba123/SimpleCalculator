@@ -107,8 +107,3 @@ Please open issues for bugs or feature requests before making large changes, so 
 
 Owner: @Rabinwaiba123
 
-If you'd like, I can:
-- Prepare a commit that updates README.md with this content,
-- Provide the exact git commands to apply it, or
-- Open a pull request text you can paste into the GitHub UI.
-
